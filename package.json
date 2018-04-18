@@ -1,0 +1,22 @@
+{
+  "name": "unix-time-experiments",
+  "version": "0.0.0",
+  "description": "JavaScript and Unix Epoch Timestamp Experiments = Experiments with the Unix epoch timestamps and JavaScript to visualize what values correspond to what dates, for both seconds and milliseconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-unix-time-experiments.git"
+  },
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (http://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-unix-time-experiments/issues"
+  },
+  "homepage": "https://github.com/rsp/node-unix-time-experiments#readme",
+  "dependencies": {
+    "luxon": "^1.0.0"
+  }
+}
